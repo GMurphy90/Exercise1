@@ -14,7 +14,7 @@ int main()
 
     double celsius, fahrenheit;//variable declaration
 
-    cout << "Enter temp in celsius: ";
+    cout << "Enter temp in Celsius: ";
     cin >> celsius;//read in temp in celsius
 
 
